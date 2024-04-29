@@ -1,9 +1,9 @@
 package block
 
 import (
-	"github.com/df-mc/dragonfly/server/block/cube"
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block/cube"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 )
 
 // Sand is a block affected by gravity. It can come in a red variant.

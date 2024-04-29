@@ -1,8 +1,8 @@
 package model
 
 import (
-	"github.com/df-mc/dragonfly/server/block/cube"
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block/cube"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 )
 
 // Ladder is the model for a ladder block.

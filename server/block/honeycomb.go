@@ -1,7 +1,7 @@
 package block
 
 import (
-	"github.com/df-mc/dragonfly/server/world/sound"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world/sound"
 )
 
 // Honeycomb is a decorative blocks crafted from honeycombs.

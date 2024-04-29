@@ -1,7 +1,7 @@
 package iteminternal
 
 import (
-	"github.com/df-mc/dragonfly/server/item/category"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item/category"
 	"golang.org/x/exp/maps"
 	"strings"
 )

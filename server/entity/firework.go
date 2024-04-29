@@ -1,10 +1,10 @@
 package entity
 
 import (
-	"github.com/df-mc/dragonfly/server/block/cube"
-	"github.com/df-mc/dragonfly/server/internal/nbtconv"
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block/cube"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/internal/nbtconv"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 	"github.com/go-gl/mathgl/mgl64"
 )
 

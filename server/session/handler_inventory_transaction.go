@@ -2,11 +2,11 @@ package session
 
 import (
 	"fmt"
-	"github.com/df-mc/dragonfly/server/block/cube"
-	"github.com/df-mc/dragonfly/server/event"
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block/cube"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/event"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol/packet"
 )
 
 // InventoryTransactionHandler handles the InventoryTransaction packet.

@@ -1,8 +1,8 @@
 package enchantment
 
 import (
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 )
 
 // Thorns is an enchantment that inflicts damage on attackers.

@@ -3,7 +3,7 @@ package cmd
 import (
 	"errors"
 	"fmt"
-	"github.com/df-mc/dragonfly/server/internal/sliceutil"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/internal/sliceutil"
 	"github.com/go-gl/mathgl/mgl64"
 	"math/rand"
 	"reflect"

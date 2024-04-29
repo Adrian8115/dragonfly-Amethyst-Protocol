@@ -1,6 +1,6 @@
 package block
 
-import "github.com/df-mc/dragonfly/server/world"
+import "github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 
 // SoulSoil is a block naturally found only in the soul sand valley.
 type SoulSoil struct {

@@ -1,8 +1,8 @@
 package model
 
 import (
-	"github.com/df-mc/dragonfly/server/block/cube"
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block/cube"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 )
 
 // Chest is the model of a chest. It is just barely not a full block, having a slightly reduced with on all

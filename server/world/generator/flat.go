@@ -1,8 +1,8 @@
 package generator
 
 import (
-	"github.com/df-mc/dragonfly/server/world"
-	"github.com/df-mc/dragonfly/server/world/chunk"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world/chunk"
 )
 
 // Flat is the flat generator of World. It generates flat worlds (like those in vanilla) with no other

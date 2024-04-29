@@ -1,7 +1,7 @@
 package block
 
 import (
-	"github.com/df-mc/dragonfly/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
 )
 
 // Netherite is a precious mineral block made from 9 netherite ingots.

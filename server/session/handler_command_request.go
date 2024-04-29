@@ -2,8 +2,8 @@ package session
 
 import (
 	"fmt"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol/packet"
 )
 
 // CommandRequestHandler handles the CommandRequest packet.

@@ -2,9 +2,9 @@ package packbuilder
 
 import (
 	"encoding/json"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/resource"
 	"github.com/google/uuid"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-	"github.com/sandertv/gophertunnel/minecraft/resource"
 	"os"
 	"path/filepath"
 	"strconv"

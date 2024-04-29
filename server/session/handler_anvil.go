@@ -2,10 +2,10 @@ package session
 
 import (
 	"fmt"
-	"github.com/df-mc/dragonfly/server/block"
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/world/sound"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world/sound"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol"
 	"math/rand"
 )
 

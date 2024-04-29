@@ -1,6 +1,6 @@
 package block
 
-import "github.com/df-mc/dragonfly/server/item"
+import "github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
 
 // BannerPatternType represents a type of banner pattern, used to customize banners.
 type BannerPatternType struct {

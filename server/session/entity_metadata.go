@@ -1,14 +1,14 @@
 package session
 
 import (
-	"github.com/df-mc/dragonfly/server/entity"
-	"github.com/df-mc/dragonfly/server/entity/effect"
-	"github.com/df-mc/dragonfly/server/internal/nbtconv"
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/item/potion"
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/entity"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/entity/effect"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/internal/nbtconv"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item/potion"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol"
 	"github.com/go-gl/mathgl/mgl64"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
 	"math"
 	"time"
 )

@@ -2,8 +2,8 @@ package session
 
 import (
 	"fmt"
-	"github.com/df-mc/dragonfly/server/block"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol/packet"
 )
 
 // LecternUpdateHandler handles the LecternUpdate packet, sent when a player interacts with a lectern.

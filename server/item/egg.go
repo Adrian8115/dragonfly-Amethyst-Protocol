@@ -1,8 +1,8 @@
 package item
 
 import (
-	"github.com/df-mc/dragonfly/server/world"
-	"github.com/df-mc/dragonfly/server/world/sound"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world/sound"
 )
 
 // Egg is an item that can be used to craft food items, or as a throwable entity to spawn chicks.

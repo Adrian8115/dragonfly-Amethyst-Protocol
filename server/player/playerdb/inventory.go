@@ -2,10 +2,10 @@ package playerdb
 
 import (
 	"bytes"
-	"github.com/df-mc/dragonfly/server/internal/nbtconv"
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/player"
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/internal/nbtconv"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/player"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/nbt"
 )
 
 func invToData(data player.InventoryData) jsonInventoryData {

@@ -1,7 +1,7 @@
 package leveldat
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol"
 	"strconv"
 	"strings"
 )

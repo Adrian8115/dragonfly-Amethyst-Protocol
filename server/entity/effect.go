@@ -2,7 +2,7 @@ package entity
 
 import (
 	"fmt"
-	"github.com/df-mc/dragonfly/server/entity/effect"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/entity/effect"
 	"reflect"
 	"sync"
 )

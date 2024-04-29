@@ -2,8 +2,8 @@ package packbuilder
 
 import (
 	_ "embed"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/resource"
 	"github.com/rogpeppe/go-internal/dirhash"
-	"github.com/sandertv/gophertunnel/minecraft/resource"
 	"os"
 )
 

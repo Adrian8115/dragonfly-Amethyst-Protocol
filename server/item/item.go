@@ -2,10 +2,10 @@ package item
 
 import (
 	"encoding/binary"
-	"github.com/df-mc/dragonfly/server/block/cube"
-	"github.com/df-mc/dragonfly/server/entity/effect"
-	"github.com/df-mc/dragonfly/server/internal/lang"
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block/cube"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/entity/effect"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/internal/lang"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 	"github.com/go-gl/mathgl/mgl64"
 	"golang.org/x/text/language"
 	"image/color"

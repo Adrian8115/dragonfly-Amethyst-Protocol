@@ -3,11 +3,11 @@ package block
 //lint:file-ignore ST1022 Exported variables in this package have compiler directives. These variables are not otherwise exposed to users.
 
 import (
-	"github.com/df-mc/dragonfly/server/block/cube"
-	"github.com/df-mc/dragonfly/server/event"
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/item/enchantment"
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block/cube"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/event"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item/enchantment"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 	"math/rand"
 	"time"
 )

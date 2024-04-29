@@ -1,7 +1,7 @@
 package entity
 
 import (
-	"github.com/df-mc/dragonfly/server/block"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block"
 	"github.com/go-gl/mathgl/mgl64"
 	"math"
 	"time"

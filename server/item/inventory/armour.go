@@ -2,9 +2,9 @@ package inventory
 
 import (
 	"fmt"
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/item/enchantment"
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item/enchantment"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 	"math"
 	"math/rand"
 )

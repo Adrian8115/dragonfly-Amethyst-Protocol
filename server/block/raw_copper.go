@@ -1,7 +1,7 @@
 package block
 
 import (
-	"github.com/df-mc/dragonfly/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
 )
 
 // RawCopper is a raw metal block equivalent to nine raw copper.

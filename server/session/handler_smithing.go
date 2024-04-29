@@ -2,9 +2,9 @@ package session
 
 import (
 	"fmt"
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/item/recipe"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item/recipe"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol"
 )
 
 const (

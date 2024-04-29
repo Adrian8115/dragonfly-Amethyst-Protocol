@@ -1,7 +1,7 @@
 package block
 
 import (
-	"github.com/df-mc/dragonfly/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
 )
 
 // Obsidian is a dark purple block known for its high blast resistance and strength, most commonly found when

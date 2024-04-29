@@ -1,6 +1,6 @@
 package block
 
-import "github.com/df-mc/dragonfly/server/world"
+import "github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 
 // Podzol is a dirt-type block that naturally blankets the surface of the giant tree taiga and bamboo jungles, along
 // with their respective variants.

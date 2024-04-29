@@ -3,9 +3,9 @@ package nbtconv
 import (
 	"bytes"
 	"encoding/gob"
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/world"
-	"github.com/df-mc/dragonfly/server/world/chunk"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world/chunk"
 	"sort"
 )
 

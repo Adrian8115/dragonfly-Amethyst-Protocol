@@ -2,8 +2,8 @@ package session
 
 import (
 	"fmt"
-	"github.com/df-mc/dragonfly/server/item/recipe"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item/recipe"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol"
 )
 
 // stonecutterInputSlot is the slot index of the input item in the stonecutter.

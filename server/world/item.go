@@ -3,8 +3,8 @@ package world
 import (
 	_ "embed"
 	"fmt"
-	"github.com/df-mc/dragonfly/server/item/category"
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item/category"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/nbt"
 	"image"
 )
 

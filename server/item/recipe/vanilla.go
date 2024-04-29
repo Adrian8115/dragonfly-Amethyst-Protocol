@@ -3,9 +3,9 @@ package recipe
 import (
 	_ "embed"
 	// Ensure all blocks and items are registered before trying to load vanilla recipes.
-	_ "github.com/df-mc/dragonfly/server/block"
-	_ "github.com/df-mc/dragonfly/server/item"
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
+	_ "github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block"
+	_ "github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/nbt"
 )
 
 var (

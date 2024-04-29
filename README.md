@@ -11,20 +11,20 @@ Minecraft server software, Dragonfly is generally used as a library to extend.
 
 ## Getting started
 Running Dragonfly requires at least **Go 1.21**. After starting the server through one of the methods below,
-**ctrl+c** may be used to shut down the server. Also check out the [wiki](https://github.com/df-mc/dragonfly/wiki) for
+**ctrl+c** may be used to shut down the server. Also check out the [wiki](https://github.com/Adrian8115/dragonfly-Amethyst-Protocol/wiki) for
 more detailed info.
 
 #### Installation as library
 ```shell
 go mod init github.com/user/module
-go get github.com/df-mc/dragonfly
+go get github.com/Adrian8115/dragonfly-Amethyst-Protocol
 ```
 
 ![SetupLibrary](https://user-images.githubusercontent.com/16114089/121804512-0f843900-cc47-11eb-9320-d195393b5a1f.gif)
 
 #### Installation of the latest commit
 ```shell
-git clone https://github.com/df-mc/dragonfly
+git clone https://github.com/Adrian8115/dragonfly-Amethyst-Protocol
 cd dragonfly
 go run main.go
 ```
@@ -32,10 +32,10 @@ go run main.go
 ![SetupClone](https://user-images.githubusercontent.com/16114089/121804495-ff6c5980-cc46-11eb-8e31-df4d94782e5b.gif)
 
 ## Developer info
-[![Go Reference](https://pkg.go.dev/badge/github.com/df-mc/dragonfly/server.svg)](https://pkg.go.dev/github.com/df-mc/dragonfly/server)
+[![Go Reference](https://pkg.go.dev/badge/github.com/Adrian8115/dragonfly-Amethyst-Protocol/server.svg)](https://pkg.go.dev/github.com/Adrian8115/dragonfly-Amethyst-Protocol/server)
 
 Dragonfly features a well-documented codebase with an easy-to-use API. Documentation may be found
-[here](https://pkg.go.dev/github.com/df-mc/dragonfly/server) and in the subpackages found by clicking *Directories*.
+[here](https://pkg.go.dev/github.com/Adrian8115/dragonfly-Amethyst-Protocol/server) and in the subpackages found by clicking *Directories*.
 
 Publishing your project on GitHub? Consider adding the **[#df-mc](https://github.com/topic/df-mc)** topic to your
 repository and opening a pull request at [df-wiki](https://github.com/df-mc/wiki) adding your project as a Community
@@ -44,4 +44,4 @@ Project to improve its visibility.
 ## Contributing
 Contributions are very welcome! Issues, pull requests and feature requests are highly appreciated. Opening a pull
 request? Consider joining our [Discord server](https://discord.gg/U4kFWHhTNR) to discuss your changes! Also have a read through the
-[CONTRIBUTING.md](https://github.com/df-mc/dragonfly/blob/master/.github/CONTRIBUTING.md) for more info.
+[CONTRIBUTING.md](https://github.com/Adrian8115/dragonfly-Amethyst-Protocol/blob/master/.github/CONTRIBUTING.md) for more info.

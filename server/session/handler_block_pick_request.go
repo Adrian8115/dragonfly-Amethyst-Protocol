@@ -1,8 +1,8 @@
 package session
 
 import (
-	"github.com/df-mc/dragonfly/server/block/cube"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block/cube"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol/packet"
 )
 
 // BlockPickRequestHandler handles the BlockPickRequest packet.

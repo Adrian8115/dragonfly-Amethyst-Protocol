@@ -1,26 +1,26 @@
 package session
 
 import (
-	"github.com/df-mc/dragonfly/server/entity/effect"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/entity/effect"
 	"image/color"
 	"math/rand"
 	"strings"
 	"time"
 
-	"github.com/df-mc/dragonfly/server/block"
-	"github.com/df-mc/dragonfly/server/block/cube"
-	"github.com/df-mc/dragonfly/server/entity"
-	"github.com/df-mc/dragonfly/server/internal/nbtconv"
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/item/inventory"
-	"github.com/df-mc/dragonfly/server/world"
-	"github.com/df-mc/dragonfly/server/world/particle"
-	"github.com/df-mc/dragonfly/server/world/sound"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block/cube"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/entity"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/internal/nbtconv"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item/inventory"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world/particle"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world/sound"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol/packet"
 	"github.com/go-gl/mathgl/mgl32"
 	"github.com/go-gl/mathgl/mgl64"
 	"github.com/google/uuid"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
 )
 
 // NetworkEncodeableEntity is a world.EntityType where the save ID and network

@@ -3,7 +3,7 @@ package inventory
 import (
 	"errors"
 	"fmt"
-	"github.com/df-mc/dragonfly/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
 	"math"
 	"slices"
 	"strings"

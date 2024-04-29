@@ -1,8 +1,8 @@
 package item
 
 import (
-	"github.com/df-mc/dragonfly/server/item/potion"
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item/potion"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 	"time"
 )
 

@@ -1,2 +1,2 @@
-// https://pkg.go.dev/github.com/df-mc/dragonfly/server
+// https://pkg.go.dev/github.com/Adrian8115/dragonfly-Amethyst-Protocol/server
 package main

@@ -1,7 +1,7 @@
 package entity
 
 import (
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 	"github.com/go-gl/mathgl/mgl64"
 )
 

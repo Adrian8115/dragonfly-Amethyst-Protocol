@@ -1,12 +1,12 @@
 package player
 
 import (
-	"github.com/df-mc/dragonfly/server/block/cube"
-	"github.com/df-mc/dragonfly/server/cmd"
-	"github.com/df-mc/dragonfly/server/event"
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/player/skin"
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block/cube"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/cmd"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/event"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/player/skin"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 	"github.com/go-gl/mathgl/mgl64"
 	"net"
 	"time"

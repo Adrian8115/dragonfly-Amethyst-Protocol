@@ -3,7 +3,7 @@ package lang
 import (
 	"embed"
 	"encoding/json"
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 	"golang.org/x/text/language"
 )
 

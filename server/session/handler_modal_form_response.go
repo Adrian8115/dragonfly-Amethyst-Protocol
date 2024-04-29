@@ -2,9 +2,9 @@ package session
 
 import (
 	"fmt"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/player/form"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol/packet"
 	"github.com/df-mc/atomic"
-	"github.com/df-mc/dragonfly/server/player/form"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
 	"sync"
 )
 

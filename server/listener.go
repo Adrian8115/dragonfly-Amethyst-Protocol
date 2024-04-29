@@ -2,8 +2,8 @@ package server
 
 import (
 	"fmt"
-	"github.com/df-mc/dragonfly/server/session"
-	"github.com/sandertv/gophertunnel/minecraft"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/session"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft"
 	"github.com/sirupsen/logrus"
 	"io"
 	"log"

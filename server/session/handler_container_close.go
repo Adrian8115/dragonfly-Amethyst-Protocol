@@ -2,7 +2,7 @@ package session
 
 import (
 	"fmt"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol/packet"
 )
 
 // ContainerCloseHandler handles the ContainerClose packet.

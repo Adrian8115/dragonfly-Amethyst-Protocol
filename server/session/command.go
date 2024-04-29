@@ -1,10 +1,10 @@
 package session
 
 import (
-	"github.com/df-mc/dragonfly/server/cmd"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/cmd"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol/packet"
 	"github.com/go-gl/mathgl/mgl64"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
 	"math"
 )
 

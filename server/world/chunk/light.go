@@ -2,7 +2,7 @@ package chunk
 
 import (
 	"container/list"
-	"github.com/df-mc/dragonfly/server/block/cube"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block/cube"
 )
 
 // insertBlockLightNodes iterates over the chunk and looks for blocks that have a light level of at least 1.

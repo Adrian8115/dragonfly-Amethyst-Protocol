@@ -1,6 +1,6 @@
 package block
 
-import "github.com/df-mc/dragonfly/server/item"
+import "github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
 
 // PolishedBlackstoneBrick are a brick variant of polished blackstone and can spawn in bastion remnants and ruined portals.
 type PolishedBlackstoneBrick struct {

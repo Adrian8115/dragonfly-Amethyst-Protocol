@@ -2,10 +2,10 @@ package world
 
 import (
 	"fmt"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block/cube"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block/customblock"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world/chunk"
 	"github.com/brentp/intintmap"
-	"github.com/df-mc/dragonfly/server/block/cube"
-	"github.com/df-mc/dragonfly/server/block/customblock"
-	"github.com/df-mc/dragonfly/server/world/chunk"
 	"image"
 	"math"
 	"math/rand"

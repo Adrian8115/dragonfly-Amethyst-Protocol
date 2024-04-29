@@ -2,13 +2,13 @@ package creative
 
 import (
 	_ "embed"
-	"github.com/df-mc/dragonfly/server/internal/nbtconv"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/internal/nbtconv"
 	// The following three imports are essential for this package: They make sure this package is loaded after
 	// all these imports. This ensures that all items are registered before the creative items are registered
 	// in the init function in this package.
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/world"
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/nbt"
 )
 
 // Items returns a list with all items that have been registered as a creative item. These items will

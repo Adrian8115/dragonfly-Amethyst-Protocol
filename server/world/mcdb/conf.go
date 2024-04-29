@@ -2,9 +2,9 @@ package mcdb
 
 import (
 	"fmt"
-	"github.com/df-mc/dragonfly/server/entity"
-	"github.com/df-mc/dragonfly/server/world"
-	"github.com/df-mc/dragonfly/server/world/mcdb/leveldat"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/entity"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world/mcdb/leveldat"
 	"github.com/df-mc/goleveldb/leveldb"
 	"github.com/df-mc/goleveldb/leveldb/opt"
 	"github.com/sirupsen/logrus"

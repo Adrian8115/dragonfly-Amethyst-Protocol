@@ -3,22 +3,22 @@ package session
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/block"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/entity"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/entity/effect"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/internal/nbtconv"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item/creative"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item/inventory"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item/recipe"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/player/form"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/player/skin"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol"
+	"github.com/Adrian8115/gophertunnel-Amethyst-Protocol/minecraft/protocol/packet"
 	"github.com/df-mc/atomic"
-	"github.com/df-mc/dragonfly/server/block"
-	"github.com/df-mc/dragonfly/server/entity"
-	"github.com/df-mc/dragonfly/server/entity/effect"
-	"github.com/df-mc/dragonfly/server/internal/nbtconv"
-	"github.com/df-mc/dragonfly/server/item"
-	"github.com/df-mc/dragonfly/server/item/creative"
-	"github.com/df-mc/dragonfly/server/item/inventory"
-	"github.com/df-mc/dragonfly/server/item/recipe"
-	"github.com/df-mc/dragonfly/server/player/form"
-	"github.com/df-mc/dragonfly/server/player/skin"
-	"github.com/df-mc/dragonfly/server/world"
 	"github.com/go-gl/mathgl/mgl64"
 	"github.com/google/uuid"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
 	"math"
 	"net"
 	"time"
@@ -918,10 +918,10 @@ func gameTypeFromMode(mode world.GameMode) int32 {
 
 // noinspection ALL
 //
-//go:linkname item_id github.com/df-mc/dragonfly/server/item.id
+//go:linkname item_id github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item.id
 func item_id(s item.Stack) int32
 
 // noinspection ALL
 //
-//go:linkname world_add github.com/df-mc/dragonfly/server/world.add
+//go:linkname world_add github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world.add
 func world_add(e world.Entity, w *world.World)

@@ -1,6 +1,6 @@
 package cmd
 
-import "github.com/df-mc/dragonfly/server/world"
+import "github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 
 // Source represents a source of a command execution. Commands may limit the sources that can run them by
 // implementing the Allower interface.

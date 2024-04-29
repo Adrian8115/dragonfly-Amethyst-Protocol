@@ -3,7 +3,7 @@ package item
 import (
 	"time"
 
-	"github.com/df-mc/dragonfly/server/entity/effect"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/entity/effect"
 )
 
 // StewType represents a type of suspicious stew.

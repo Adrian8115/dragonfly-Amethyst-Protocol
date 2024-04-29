@@ -1,6 +1,6 @@
 package enchantment
 
-import "github.com/df-mc/dragonfly/server/item"
+import "github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/item"
 
 func init() {
 	item.RegisterEnchantment(0, Protection{})

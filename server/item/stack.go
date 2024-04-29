@@ -2,7 +2,7 @@ package item
 
 import (
 	"fmt"
-	"github.com/df-mc/dragonfly/server/world"
+	"github.com/Adrian8115/dragonfly-Amethyst-Protocol/server/world"
 	"reflect"
 	"slices"
 	"sort"
